@@ -17,6 +17,7 @@ html{font-family: "Comfortaa";}
     border-radius: 12px;
     }
  .button {
+    font-family: "Comfortaa";
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     text-align: center;
